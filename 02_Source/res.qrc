@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>rocket.jpg</file>
+        <file>wechat_reader.ico</file>
+    </qresource>
+</RCC>
